@@ -1,0 +1,22 @@
+{
+  "name": "react_app",
+  "version": "1.0.0",
+  "description": "React App",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshaRenu/React_App.git"
+  },
+  "author": "Isha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IshaRenu/React_App/issues"
+  },
+  "homepage": "https://github.com/IshaRenu/React_App#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
